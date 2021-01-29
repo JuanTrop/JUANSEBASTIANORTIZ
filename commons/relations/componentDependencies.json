@@ -1,0 +1,151 @@
+{
+	"CompositeForms": {
+	},
+	"Entities": {
+		"EN_CIUDADANO_962": {
+			"labels": [
+			]
+		},
+		"EN_CUENTADES_820": {
+			"labels": [
+			]
+		},
+		"EN_CUENTAOIE_653": {
+			"labels": [
+			]
+		},
+		"EN_ESTADOCVL_592": {
+			"labels": [
+			]
+		},
+		"EN_PERSONAMG_670": {
+			"labels": [
+			]
+		},
+		"EN_SUMAJVNID_949": {
+			"labels": [
+			]
+		}
+	},
+	"Forms": {
+		"T_INTRDKAXJGOVP_212": {
+			"blis": [
+			],
+			"entities": {
+				"EN_PERSONAMG_670": [
+					"AT24_APELLIOD670",
+					"AT83_NOMBREZS670",
+					"AT97_NOMBREMO670"
+				]
+			},
+			"externalEntities": {
+			},
+			"externalQueries": {
+			},
+			"header": [
+			],
+			"labels": [
+				"LBL_INTRD_APELLIDOO_56272",
+				"LBL_INTRD_CLEANIQEQ_47709",
+				"LBL_INTRD_NOMBRECPM_47454",
+				"LBL_INTRD_NOMBREZHE_51917",
+				"LBL_INTRD_OKTSQYVNQ_51510"
+			],
+			"queries": {
+			},
+			"subForms": [
+			]
+		},
+		"T_INTRDPKUHRFZJ_261": {
+			"blis": [
+			],
+			"entities": {
+				"EN_2DEWEXEID_368": [
+					"AT02_1UWESSIQ368",
+					"AT03_2PGZVYHK368"
+				],
+				"EN_ESTADOCVL_592": [
+					"AT99_ESTADOIV592"
+				]
+			},
+			"externalEntities": {
+			},
+			"externalQueries": {
+			},
+			"header": [
+			],
+			"labels": [
+				"LBL_INTRD_ACTIVIDAL_13891",
+				"LBL_INTRD_ESTADOCIL_52147",
+				"LBL_INTRD_RESTAURRA_91358"
+			],
+			"queries": {
+			},
+			"subForms": [
+			]
+		},
+		"T_INTRDRLQGVUXI_699": {
+			"blis": [
+			],
+			"entities": {
+				"EN_SUMAJVNID_949": [
+					"AT15_RESULTAD949",
+					"AT51_NUMERO22949",
+					"AT83_NUMERO11949"
+				]
+			},
+			"externalEntities": {
+			},
+			"externalQueries": {
+			},
+			"header": [
+			],
+			"labels": [
+				"LBL_INTRD_LIMPIAROO_14197",
+				"LBL_INTRD_RESULTAOO_50800",
+				"LBL_INTRD_SUMANDO11_79755",
+				"LBL_INTRD_SUMANDO22_45743",
+				"LBL_INTRD_SUMARFWPO_39242"
+			],
+			"queries": {
+			},
+			"subForms": [
+			]
+		},
+		"T_INTRDUKRVPALQ_820": {
+			"blis": [
+			],
+			"entities": {
+				"EN_CUENTADES_820": [
+					"AT17_NUMEROAA820",
+					"AT86_SALDOZXK820"
+				],
+				"EN_CUENTAOIE_653": [
+					"AT63_VALORTSA653",
+					"AT65_SALDOHIF653",
+					"AT78_NUMERONE653"
+				]
+			},
+			"externalEntities": {
+			},
+			"externalQueries": {
+			},
+			"header": [
+			],
+			"labels": [
+				"LBL_INTRD_CUENTADEO_15605",
+				"LBL_INTRD_CUENTAOGN_62075",
+				"LBL_INTRD_NMEROCUAT_87609",
+				"LBL_INTRD_SALDOYHZT_85138",
+				"LBL_INTRD_TRANSFERR_72950",
+				"LBL_INTRD_VALORATRA_61775"
+			],
+			"queries": {
+			},
+			"subForms": [
+			]
+		}
+	},
+	"Queries": {
+	}
+}

@@ -1,0 +1,124 @@
+{
+	"APP_CUENTASVLMA_206": {
+		"externalModules": {
+		},
+		"forms": {
+			"INTRD": [
+				{
+					"generated": 2,
+					"moduleId": "INTRD",
+					"name": "FormCuentas",
+					"subModuleId": "FRMCN",
+					"taskId": "T_INTRDUKRVPALQ_820",
+					"type": "Simple form"
+				}
+			]
+		},
+		"generate": {
+			"categoryName": "Cobiscorp",
+			"customEventImpl": "Custom",
+			"customEventImplPath": "{projectPath}\\build",
+			"displayName": "FormCuentas",
+			"mode": "Development",
+			"type": "HTML5"
+		},
+		"id": "APP_CUENTASVLMA_206",
+		"mainPortletTaskId": "T_INTRDUKRVPALQ_820",
+		"modules": [
+			"INTRD"
+		],
+		"name": "FormCuentas"
+	},
+	"APP_ESTADOCIIVV_900": {
+		"externalModules": {
+		},
+		"forms": {
+			"INTRD": [
+				{
+					"generated": 2,
+					"moduleId": "INTRD",
+					"name": "FormEstadoCivil",
+					"subModuleId": "CMBOS",
+					"taskId": "T_INTRDPKUHRFZJ_261",
+					"type": "Simple form"
+				}
+			]
+		},
+		"generate": {
+			"categoryName": "Cobiscorp",
+			"customEventImpl": "Custom",
+			"customEventImplPath": "{projectPath}\\build",
+			"displayName": "FormEstadoCivil",
+			"mode": "Development",
+			"type": "HTML5"
+		},
+		"id": "APP_ESTADOCIIVV_900",
+		"mainPortletTaskId": "T_INTRDPKUHRFZJ_261",
+		"modules": [
+			"INTRD"
+		],
+		"name": "FormEstadoCivil"
+	},
+	"APP_EVENTOSCIEI_307": {
+		"externalModules": {
+		},
+		"forms": {
+			"INTRD": [
+				{
+					"generated": 2,
+					"moduleId": "INTRD",
+					"name": "EventosCliente",
+					"subModuleId": "FRMLR",
+					"taskId": "T_INTRDKAXJGOVP_212",
+					"type": "Simple form"
+				}
+			]
+		},
+		"generate": {
+			"categoryName": "Cobiscorp",
+			"customEventImpl": "Custom",
+			"customEventImplPath": "{projectPath}\\build",
+			"displayName": "EventosCliente",
+			"mode": "Development",
+			"type": "HTML5"
+		},
+		"id": "APP_EVENTOSCIEI_307",
+		"mainPortletTaskId": "T_INTRDKAXJGOVP_212",
+		"modules": [
+			"INTRD"
+		],
+		"name": "EventosCliente"
+	},
+	"APP_OPERACIONSE_756": {
+		"externalModules": {
+		},
+		"forms": {
+			"INTRD": [
+				{
+					"generated": 2,
+					"moduleId": "INTRD",
+					"moduleName": "Introduccion",
+					"name": "Calculadora",
+					"subModuleId": "OPRCN",
+					"subModuleName": "Operaciones",
+					"taskId": "T_INTRDRLQGVUXI_699",
+					"type": "Simple form"
+				}
+			]
+		},
+		"generate": {
+			"categoryName": "Cobiscorp",
+			"customEventImpl": "Custom",
+			"customEventImplPath": "{projectPath}\\build",
+			"displayName": "Operaciones",
+			"mode": "Development",
+			"type": "HTML5"
+		},
+		"id": "APP_OPERACIONSE_756",
+		"mainPortletTaskId": "T_INTRDRLQGVUXI_699",
+		"modules": [
+			"INTRD"
+		],
+		"name": "Operaciones"
+	}
+}
